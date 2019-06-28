@@ -1,0 +1,3 @@
+/home/rodrigo/Desktop/restaurante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rodrigo/Desktop/restaurante/cmake-build-debug/CMakeFiles/restaurante.dir
+/home/rodrigo/Desktop/restaurante/cmake-build-debug/CMakeFiles/edit_cache.dir

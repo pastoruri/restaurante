@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rodrigo/Desktop/restaurante/Cliente.cpp
+Cliente.h
+/home/rodrigo/Desktop/restaurante/Cliente.h
+
+/home/rodrigo/Desktop/restaurante/Cliente.h
+mesas.h
+/home/rodrigo/Desktop/restaurante/mesas.h
+
+/home/rodrigo/Desktop/restaurante/Restaurante.cpp
+Restaurante.h
+/home/rodrigo/Desktop/restaurante/Restaurante.h
+
+/home/rodrigo/Desktop/restaurante/Restaurante.h
+mesas.h
+/home/rodrigo/Desktop/restaurante/mesas.h
+Cliente.h
+/home/rodrigo/Desktop/restaurante/Cliente.h
+vector
+-
+iostream
+-
+algorithm
+-
+
+/home/rodrigo/Desktop/restaurante/mesas.cpp
+mesas.h
+/home/rodrigo/Desktop/restaurante/mesas.h
+
+/home/rodrigo/Desktop/restaurante/mesas.h
+Cliente.h
+/home/rodrigo/Desktop/restaurante/Cliente.h
+
