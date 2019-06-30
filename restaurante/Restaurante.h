@@ -28,7 +28,6 @@ public:
         if(capacidad>clientes_restaurante.size()) {
             clientes_restaurante.push_back(cliente_);
             mesas_restaurante[ocupados]->update(true);
-            mesas_restaurante[ocupados]->setcliente(&cliente_);
             clientes_restaurante[ocupados].setmesa(mesas_restaurante[ocupados]);
             ocupados++;
         }
