@@ -32,7 +32,7 @@ public:
             ocupados++;
         }
         else
-            cout<<"La cagaste en algo"<<endl;
+            cout<<"Hubo un error"<<endl;
 
     };
 
